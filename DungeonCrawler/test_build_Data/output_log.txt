@@ -1,0 +1,24 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6450 (ID=0x6779)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sally\Documents\GitHub\Dungeoncrawler\DungeonCrawler\test_build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sally\Documents\GitHub\Dungeoncrawler\DungeonCrawler\test_build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sally\Documents\GitHub\Dungeoncrawler\DungeonCrawler\test_build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\sally\Documents\GitHub\Dungeoncrawler\DungeonCrawler\test_build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+skin:Start() (at C:\Users\sally\Documents\GitHub\Dungeoncrawler\DungeonCrawler\Assets\skin.js:9)
+ 
+(Filename: C Line: 0)
+
