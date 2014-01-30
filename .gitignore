@@ -7,3 +7,5 @@ Testbuildfolder/
 *.csproj
 *.unityproj
 *.sln
+
+DungeonCrawler/test_build_Data/output_log.txt
