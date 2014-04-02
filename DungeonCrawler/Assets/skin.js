@@ -6,7 +6,6 @@ private var right = false;
 private var left = false;
 function Start () 
 {
-	Debug.Log(Vector2.right.magnitude);
 }
 
 function Update () {
